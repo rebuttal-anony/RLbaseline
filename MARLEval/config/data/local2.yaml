@@ -1,0 +1,7 @@
+data_dirs: [
+    '/path/to/your_model_dir/Overcooked-AI/experiment/2024.08.05/maddpg_forced_online_vanilla/buffer/49999',
+    '/path/to/your_model_dir/Overcooked-AI/experiment/2024.08.05/maddpg_forced_online_vanilla/buffer/99999',
+    '/path/to/your_model_dir/Overcooked-AI/experiment/2024.08.05/maddpg_forced_online_vanilla/buffer/149999',
+    '/path/to/your_model_dir/Overcooked-AI/experiment/2024.08.05/maddpg_forced_online_vanilla/buffer/199999',
+    '/path/to/your_model_dir/Overcooked-AI/experiment/2024.08.05/maddpg_forced_online_vanilla/buffer/249999',
+]
